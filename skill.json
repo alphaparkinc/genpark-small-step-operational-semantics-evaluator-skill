@@ -1,0 +1,13 @@
+{
+  "name": "genpark-small-step-operational-semantics-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Small-Step Structural Operational Semantics (SOS) transition evaluator tracing step-by-step reduction rules and environment state mutations.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "operational-semantics",
+    "sos",
+    "formal-methods",
+    "abstract-machine"
+  ]
+}
